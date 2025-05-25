@@ -6,3 +6,4 @@ multidisciplinary technologist engaged in the architectural orchestration of sca
 
 - Browsers
 - Framer Motion
+- Typescript

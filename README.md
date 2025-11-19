@@ -4,6 +4,5 @@ multidisciplinary technologist engaged in the architectural orchestration of sca
 
 ## Currently Learning
 
-- Browsers
-- Framer Motion
-- Typescript
+- Data Analysis
+- Pandas

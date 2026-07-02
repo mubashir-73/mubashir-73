@@ -1,5 +1,5 @@
+ <img align="left" alt="toji" width="400" src="./assets/toji.jpg" />
 <div align="center">
-    <img align="left" alt="toji" width="400" src="./assets/toji.jpg" />
 <h3>
 "Experience"
 </h3>

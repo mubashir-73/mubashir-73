@@ -25,13 +25,13 @@ Currently focused on:
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,go,java,c,cpp" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastify,fastapi,django" />
 </p>
 
 ### Frontend

@@ -31,13 +31,13 @@ Currently focused on:
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastify,fastapi,django" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,nestjs" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,angular,vite,tailwind,bootstrap,html,css" />
+<img src="https://skillicons.dev/icons?i=react,angular,vite,nextjs,tailwind,bootstrap,html,css" />
 </p>
 
 ### Databases
